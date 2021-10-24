@@ -1,0 +1,12 @@
+pandas
+numpy
+sklearn
+joblib
+seaborn
+matplotlib
+tensorflow
+plotly
+google
+google
+google-cloud-bigquery
+psycopg2
