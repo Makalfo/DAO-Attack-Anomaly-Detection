@@ -1,5 +1,4 @@
-# LSTM_Ethereum_Classic
-LSTM Ethereum Classic
+# DAO-Attack-Anomaly-Detection
 
 Simple RNN Autoencoder based on the method used in the paper: <br>
  `A Deep Learning Approach for Detecting Security Attacks on Blockchain`
@@ -8,3 +7,6 @@ Simple RNN Autoencoder based on the method used in the paper: <br>
 
 The model was trained on D1 similar to the paper and T1 for the test dataset. The results were similar but the anomaly was detected the day after the attack unlike the paper..
 Potentially due to the method of normalization or processing of data prior to training.
+
+Results:
+
